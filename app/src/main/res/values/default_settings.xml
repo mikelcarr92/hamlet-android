@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_url">"http://web3.gymea-h.schools.nsw.edu.au"</string>
+    <string name="login_url">/security/login/</string>
+    <string name="logout_url">/account/logout/</string>
+    <string name="api_authenticate">/api/v1/authenticate</string>
+    <string name="api_claim">/api/legacy/claim</string>
+    <string name="username_param">username</string>
+    <string name="password_param">password</string>
+    <string name="url_notebook">/notebook</string>
+    <string name="url_timetable">/timetable/timetable/</string>
+    <string name="url_tasks">/tasks/upcoming/</string>
+    <string name="url_settings">/account/general/</string>
+    <string name="url_notifications">/notifications/all/</string>
+    <string name="url_search">/search.json?query=</string>
+</resources>

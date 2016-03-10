@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/prefs_server_settings_header">
+
+        <EditTextPreference
+            android:key="@string/prefkey_server_url"
+            android:title="@string/prefs_server_url_title"
+            android:defaultValue="@string/default_url"
+            android:summary="@string/prefs_server_url_summary"
+            android:dialogTitle="@string/prefs_server_url_title" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

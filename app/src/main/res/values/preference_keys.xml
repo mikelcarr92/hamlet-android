@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prefkey_server_url">twopicode.com.hamlet.SERVER_URL</string>
+    <string name="prefkey_token">twopicode.com.hamlet.TOKEN</string>
+    <string name="prefkey_expiry">twopicode.com.hamlet.EXPIRY</string>
+</resources>
